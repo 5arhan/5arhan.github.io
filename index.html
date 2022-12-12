@@ -1,5 +1,3 @@
-<html>
-  <head>
-    <meta http-equiv="refresh" content="7; url='https://www.onemum.uk'" />
-  </head>
-</html>
+<script type="text/javascript">
+setTimeout("window.location='https://www.onemum.uk>'",500);
+</script>
